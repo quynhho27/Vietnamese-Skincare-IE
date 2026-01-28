@@ -24,7 +24,7 @@ Relation Extraction focuses on identifying semantic relationships between extrac
 - Output: Relationship type between entities
 - Vectorization: PhoBERT
 - Models:
-  + Machine Learning: SVM, Logistic Regression, Random Forest
+  + Machine Learning: SVM, Logistics Regression, Random Forest
   + Deep Learning: MLP
 - Results:
 

@@ -1,3 +1,10 @@
+> **Note**
+> 
+> This project was developed as a final course project in collaboration with three teammates
+>
+> This repository is a fork of the original group repository, in which I actively contributed to the core implementation and analysis
+
+
 ## PROJECT OVERVIEW
 The project focuses on Information Extraction (IE) using Natural Language Processing (NLP) techniques to extract structured information from Vietnamese skincare-related texts. 
 The workflow includes manual data annotation with Label Studio, followed by Named Entity Recognition (NER) and Relation Extraction (RE) modeling.
